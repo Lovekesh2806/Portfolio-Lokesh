@@ -26,37 +26,47 @@ export default function Navbar() {
               <ul className="flex space-x-8">
                 <li>
                   <a
-                    href="#about"
+                    href="#About"
                     className="text-white hover:text-teal-200  px-3 py-2 rounded-md text-sm font-medium"
                   >
                     About
                   </a>
                 </li>
                 <li>
-                  <a className="text-white hover:text-teal-200  px-3 py-2 rounded-md text-sm font-medium">
+                  <a 
+                    href="#Skill"
+                    className="text-white hover:text-teal-200  px-3 py-2 rounded-md text-sm font-medium">
                     Skills
                   </a>
                 </li>
-                <li>
-                  <a className="text-white hover:text-teal-200  px-3 py-2 rounded-md text-sm font-medium">
+                {/* <li>
+                  <a 
+                    href="#About"
+                    className="text-white hover:text-teal-200  px-3 py-2 rounded-md text-sm font-medium">
                     Tracer
                   </a>
-                </li>
+                </li> */}
                 <li>
-                  <a className="text-white hover:text-teal-200  px-3 py-2 rounded-md text-sm font-medium">
+                  <a 
+                    href="#Project"
+                    className="text-white hover:text-teal-200  px-3 py-2 rounded-md text-sm font-medium">
                     Projects
                   </a>
                 </li>
                 <li>
-                  <a className="text-white hover:text-teal-200  px-3 py-2 rounded-md text-sm font-medium">
+                  <a 
+                    href="#Contact"
+                    className="text-white hover:text-teal-200  px-3 py-2 rounded-md text-sm font-medium">
                     Contacts
                   </a>
                 </li>
-                <li>
-                  <a className="text-white hover:text-teal-200  px-3 py-2 rounded-md text-sm font-medium">
+                {/* <li>
+                  <a 
+                     href="#About"
+                     className="text-white hover:text-teal-200  px-3 py-2 rounded-md text-sm font-medium">
                     About
                   </a>
-                </li>
+                </li> */}
               </ul>
             </div>
 
@@ -89,9 +99,9 @@ export default function Navbar() {
               <a className="text-white hover:text-teal-400 block px-3 py-2 rounded-md transition-color duration-200">
                 Projects
               </a>
-              <a className="text-white hover:text-teal-400 block px-3 py-2 rounded-md transition-color duration-200">
+              {/* <a className="text-white hover:text-teal-400 block px-3 py-2 rounded-md transition-color duration-200">
                 About
-              </a>
+              </a> */}
               <a className="text-white hover:text-teal-400 block px-3 py-2 rounded-md transition-color duration-200">
                 Contact
               </a>
