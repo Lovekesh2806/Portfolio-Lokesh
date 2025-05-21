@@ -54,7 +54,7 @@ function Footer() {
                 <Github className="h-6 w-6" />
               </a>
               <a
-                href="www.linkedin.com/in/lokesh-chellinki"
+                href="https://www.linkedin.com/in/lokesh-chellinki/"
                 className="text-white/80 hover:text-teal-200 transition-colors duration-200"
               >
                 <span className="sr-only">LinkedIn</span>
