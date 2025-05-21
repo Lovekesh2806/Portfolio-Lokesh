@@ -41,7 +41,7 @@ function About() {
             </p>
             <p className="text-lg text-gray-600">
               Currently, I'm focused on building modern web applications using
-              React, Node.js, and Java. I'm passionate about creating solutions
+              React, Node.js and Java. I'm passionate about creating solutions
               that not only look great but also perform exceptionally well.
             </p>
           </div>
