@@ -16,7 +16,7 @@ export default function Navbar() {
               </div>
               <div className="md:block hidden ml-4">
                 <span className="text-white font-semibold text-lg">
-                  Vanam Hariprasad
+                  Lokesh Chellinki
                 </span>
               </div>
             </div>
